@@ -39,13 +39,11 @@ Re-Cordiac requires [Python](https://www.python.org/) v3.10+ to run.
 
 3. Install requirements
     ```sh
-    pip3 install -r requirements.txt #for python version 3.0+
-    pip install -r requirements.txt #for python version < 3
+    pip3 install -r requirements.txt
     ```
 4. Running project
     ```sh
-    python3 get_face.py #for python version 3.0+
-    python getface.py #for python version < 3
+    python3 InstaPulse.py
     ```
 ### Windows
 > :warning: **Make sure python is added to path correctly else the following command may not work, in case try to replace "python" with "py- m" in each command**: Be very careful here!
@@ -56,12 +54,10 @@ Re-Cordiac requires [Python](https://www.python.org/) v3.10+ to run.
 2. Setting up [virtual enviornment](https://docs.python.org/3/library/venv.html)
 3. Install requirements
     ```sh
-    pip3 install -r requirements.txt #for python version 3
-    pip install -r requirements.txt #for python version < 3.0+
+    pip3 install -r requirements.txt
     ```
     > :warning: **Some package like PyQT5 may need [Windows C++ Build Tool](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2017) and mediapipe might also require some other dependenci **: Be very careful here!
 4. Running project
     ```sh
-    python3 get_face.py #for python version 3.0+
-    python getface.py #for python version < 3
+    python3 InstaPulse.py
     ```
