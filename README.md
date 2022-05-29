@@ -22,6 +22,10 @@ InstaPulse is a Python based application and is powered by many powerfull module
 - [Scipy](https://scipy.org/) - SciPy provides algorithms for optimization, differential equations, statistics and many other classes of problems
 - [Butterworth Filter](https://en.wikipedia.org/wiki/Butterworth_filter) - A type of signal processing filter designed to have a frequency response that is as flat as possible in the passband
 
+## Flowchart
+![img1](https://raw.githubusercontent.com/AryaDeepanshu/images/master/unnamed%20(1).png)
+![img2](https://raw.githubusercontent.com/AryaDeepanshu/images/master/unnamed.png)
+
 ## Installation
 
 ### Linux (Recommended)
