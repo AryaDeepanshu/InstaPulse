@@ -13,7 +13,7 @@ This project estimates real time cardiac rate of a person through remote photopl
 
 ## Tech
 
-Re-COrdiac is a Python based application and is powered by many powerfull modules and technologies 
+InstaPulse is a Python based application and is powered by many powerfull modules and technologies 
 
 - [OpenCV](https://opencv.org/) - Opensource computer vision library!
 - [Mediapipe](https://google.github.io/mediapipe/) - Ultra fast and customizable ML solutions for live and streaming 
